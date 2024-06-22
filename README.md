@@ -1,4 +1,4 @@
-# Laura Šeatović - Terraform, EC2, TicTacToe report
+# YOngchun Guo- Terraform, EC2, TicTacToe report
 
 - Course: *Cloud programming*
 - Group: 3
